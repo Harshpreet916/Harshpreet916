@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Harshpreet!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Harshpreet Singh!</h3>
 
 <a href="https://www.linkedin.com/in/harshpreet-singh-b635551b7/">
   <img align="left" alt="Harshpreet's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -7,24 +7,27 @@
   <img align="left" alt="Harshpreet's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
 
 
 
 <br />
 <br />
 
-A *WEB DEVELOPMENT* **Enthusiast** 🚀.
+
+*Android DEVELOPMENT* **Enthusiast** 🚀.
  
 
   
 
-*About Me!*
+*Personal info!*
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring C++. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [harshpreetshah2002@gmail.com](mailto:harshpreetshah2002@gmail.com).
+- 👨🏽‍💻 I’m a first year CSE undergraduate at Guru Tegh Bahadur Institute of Technology, GGSIPU
+- 🌱 I’m currently exploring C & C++. 
+- 🤔 My interest lies in android development.
+- 💬 Hit me in my DM's I always answer any queries!
+- 📫 You can contact me at [harshpreetshah2002@gmail.com](mailto:harshpreetshah2002@gmail.com).
 
 
 
@@ -41,11 +44,11 @@ A *WEB DEVELOPMENT* **Enthusiast** 🚀.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshpreet916&show_icons=true&count_private=true" alt="Harshpreet's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpreet916" alt="Harshpreet's GitHub Stats" width=500 height=500>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshpreet916&show_icons=true&count_private=true" alt="Harshpreet's GitHub Stats">
+
 
 
 ----
-Credit: [Harshpreet916](https://github.com/Harshpreet916)
+Credit: [Jas-Script](https://github.com/Jas-Script)
 
