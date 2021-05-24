@@ -46,8 +46,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpreet916" alt="Harshpreet's GitHub Stats" width=500 height=500>
-<img src="https://github-readme-stats.vercel.app/api?username=Harshpreet916&show_icons=true&count_private=true" alt="Harshpreet's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpreet916" alt="Harshpreet's GitHub Stats" width=500 height=500><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshpreet916&show_icons=true&count_private=true" alt="Harshpreet's GitHub Stats"><br>
 
 
 
