@@ -23,7 +23,7 @@
 
 *Personal info!*
 
-- 👨🏽‍💻 I’m a first year CSE undergraduate at Guru Tegh Bahadur Institute of Technology, GGSIPU
+- 👨🏽‍💻 I’m a second year CSE undergraduate at Guru Tegh Bahadur Institute of Technology, GGSIPU
 - 🌱 I’m currently exploring C, C++ & Python. 
 - 🤔 My interest lies in Artificial intelligence.
 - 💬 Hit me in my DM's I always answer any queries!
