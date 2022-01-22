@@ -16,7 +16,7 @@
 <br />
 
 
-*Android DEVELOPMENT* **Enthusiast** 🚀.
+*Artificial intelligence* **Enthusiast** 🚀.
  
 
   
@@ -24,8 +24,8 @@
 *Personal info!*
 
 - 👨🏽‍💻 I’m a first year CSE undergraduate at Guru Tegh Bahadur Institute of Technology, GGSIPU
-- 🌱 I’m currently exploring C & C++. 
-- 🤔 My interest lies in android development.
+- 🌱 I’m currently exploring C, C++ & Python. 
+- 🤔 My interest lies in Artificial intelligence.
 - 💬 Hit me in my DM's I always answer any queries!
 - 📫 You can contact me at [harshpreetshah2002@gmail.com](mailto:harshpreetshah2002@gmail.com).
 
@@ -52,5 +52,5 @@
 
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
+
 
