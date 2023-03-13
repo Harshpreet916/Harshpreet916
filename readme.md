@@ -16,16 +16,16 @@
 <br />
 
 
-*Artificial intelligence* **Enthusiast** 🚀.
+*Web Developer* **Enthusiast** 🚀.
  
 
   
 
 *Personal info!*
 
-- 👨🏽‍💻 I’m a second year CSE undergraduate at Guru Tegh Bahadur Institute of Technology, GGSIPU
-- 🌱 I’m currently exploring C, C++ & Python. 
-- 🤔 My interest lies in Artificial intelligence.
+- 👨🏽‍💻 I’m a third year CSE undergraduate at Guru Tegh Bahadur Institute of Technology, GGSIPU
+- 🌱 I’m currently exploring node.js. 
+- 🤔 My interest lies in Web Development.
 - 💬 Hit me in my DM's I always answer any queries!
 - 📫 You can contact me at [harshpreetshah2002@gmail.com](mailto:harshpreetshah2002@gmail.com).
 
