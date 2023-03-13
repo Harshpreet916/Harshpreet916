@@ -16,7 +16,7 @@
 <br />
 
 
-*Web Developer* **Enthusiast** 🚀.
+*Web Development* **Enthusiast** 🚀.
  
 
   
