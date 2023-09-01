@@ -23,8 +23,8 @@
 
 *Personal info!*
 
-- 👨🏽‍💻 I’m a third year CSE undergraduate at Guru Tegh Bahadur Institute of Technology, GGSIPU
-- 🌱 I’m currently exploring node.js. 
+- 👨🏽‍💻 I’m a fourth-year CSE undergraduate at Guru Tegh Bahadur Institute of Technology, GGSIPU
+- 🌱 I’m currently exploring JavaScript and Artificial Intelligence. 
 - 🤔 My interest lies in Web Development.
 - 💬 Hit me in my DM's I always answer any queries!
 - 📫 You can contact me at [harshpreetshah2002@gmail.com](mailto:harshpreetshah2002@gmail.com).
