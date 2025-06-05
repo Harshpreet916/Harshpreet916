@@ -43,12 +43,23 @@
 
 ---
 
+### **Projects & Contributions**  
+
+🚀 **[EMS-Frontend](https://github.com/Harpreetsingh10414/EMS-Frontend)**:  
+A responsive Employee Management System interface built with React and Vite, integrated with a Spring Boot backend.
+
+📊 **[Credit Card Fraud Detection](https://github.com/Harpreet916/Credit-Card-Fraud-Detection)**:  
+A machine learning project using Python to analyze and predict fraudulent transactions.
+
+🌐 **[HypeHunter](https://github.com/Harpreet916/Recommendation-System/tree/main/HYPEHUNTER/Project)**:  
+A recommendation system for trending products, implemented with Python, JavaScript, and CSS.
+
+---
+
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshpreet916&show_icons=true&count_private=true" alt="GitHub Stats" width="500">  
-</p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpreet916&layout=compact" alt="Top Languages" width="500">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpreet916&layout=compact" alt="Top Languages" width="300">  
 </p>  
 
 ---
