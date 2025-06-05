@@ -16,16 +16,16 @@
 <br />
 
 
-*Web Development* **Enthusiast** 🚀.
+
  
 
   
 
 *Personal info!*
 
-- 👨🏽‍💻 I’m a fourth-year CSE undergraduate at Guru Tegh Bahadur Institute of Technology, GGSIPU
-- 🌱 I’m currently exploring JavaScript and Artificial Intelligence. 
-- 🤔 My interest lies in Web Development.
+- 🔭 I’m currently working on HRMS System for Indian Army.
+- 🌱 I’m currently exploring Springboot and Artificial Intelligence. 
+- 🤔 My interest lies in Database and Data analysis.
 - 💬 Hit me in my DM's I always answer any queries!
 - 📫 You can contact me at [harshpreetshah2002@gmail.com](mailto:harshpreetshah2002@gmail.com).
 
